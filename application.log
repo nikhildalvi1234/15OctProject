@@ -1,0 +1,36 @@
+2023-03-08 01:41:44,968  INFO [main] SauceDemo-15OctProject:50 - Browser is opened
+2023-03-08 01:41:46,223  INFO [main] SauceDemo-15OctProject:53 - URL is open
+2023-03-08 01:41:46,264  INFO [main] SauceDemo-15OctProject:56 - Browser is maximized
+2023-03-08 01:41:46,897  INFO [main] SauceDemo-15OctProject:59 - Takes screenshot on login page
+2023-03-08 01:41:47,349  INFO [main] SauceDemo-15OctProject:66 - Username is entered
+2023-03-08 01:41:47,422  INFO [main] SauceDemo-15OctProject:69 - password is entered
+2023-03-08 01:41:47,782  INFO [main] SauceDemo-15OctProject:72 - Click on login button
+2023-03-08 01:41:47,783  INFO [main] SauceDemo-15OctProject:74 - went to homepage
+2023-03-08 01:41:49,255  INFO [main] SauceDemo-15OctProject:22 - Click on multi product
+2023-03-08 01:41:49,462  INFO [main] SauceDemo-15OctProject:25 - Takes screenshot
+2023-03-08 01:41:49,508  INFO [main] SauceDemo-15OctProject:32 - Add to cart test case pass
+2023-03-08 01:41:51,138  INFO [main] SauceDemo-15OctProject:84 - Browser is closed
+2023-03-08 01:41:56,062  INFO [main] SauceDemo-15OctProject:50 - Browser is opened
+2023-03-08 01:41:56,965  INFO [main] SauceDemo-15OctProject:53 - URL is open
+2023-03-08 01:41:56,974  INFO [main] SauceDemo-15OctProject:56 - Browser is maximized
+2023-03-08 01:41:57,130  INFO [main] SauceDemo-15OctProject:59 - Takes screenshot on login page
+2023-03-08 01:41:57,397  INFO [main] SauceDemo-15OctProject:66 - Username is entered
+2023-03-08 01:41:57,532  INFO [main] SauceDemo-15OctProject:69 - password is entered
+2023-03-08 01:41:57,928  INFO [main] SauceDemo-15OctProject:72 - Click on login button
+2023-03-08 01:41:57,929  INFO [main] SauceDemo-15OctProject:74 - went to homepage
+2023-03-08 01:41:58,224  INFO [main] SauceDemo-15OctProject:21 - Click setting button
+2023-03-08 01:41:58,469  INFO [main] SauceDemo-15OctProject:24 - Click Logout button
+2023-03-08 01:41:58,469  INFO [main] SauceDemo-15OctProject:28 - https://www.saucedemo.com/
+2023-03-08 01:41:58,475  INFO [main] SauceDemo-15OctProject:30 - https://www.saucedemo.com/
+2023-03-08 01:41:58,475  INFO [main] SauceDemo-15OctProject:34 - Logout test case is pass
+2023-03-08 01:41:59,957  INFO [main] SauceDemo-15OctProject:84 - Browser is closed
+2023-03-08 01:42:04,575  INFO [main] SauceDemo-15OctProject:50 - Browser is opened
+2023-03-08 01:42:05,540  INFO [main] SauceDemo-15OctProject:53 - URL is open
+2023-03-08 01:42:05,554  INFO [main] SauceDemo-15OctProject:56 - Browser is maximized
+2023-03-08 01:42:05,707  INFO [main] SauceDemo-15OctProject:59 - Takes screenshot on login page
+2023-03-08 01:42:06,011  INFO [main] SauceDemo-15OctProject:66 - Username is entered
+2023-03-08 01:42:06,108  INFO [main] SauceDemo-15OctProject:69 - password is entered
+2023-03-08 01:42:06,492  INFO [main] SauceDemo-15OctProject:72 - Click on login button
+2023-03-08 01:42:06,492  INFO [main] SauceDemo-15OctProject:74 - went to homepage
+2023-03-08 01:42:06,499  INFO [main] SauceDemo-15OctProject:16 - Login Test case pass
+2023-03-08 01:42:07,980  INFO [main] SauceDemo-15OctProject:84 - Browser is closed

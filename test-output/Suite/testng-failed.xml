@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <parameter name="browserName" value="Firefox"/>
+    <classes>
+      <class name="com.Saucedemo.TestPack.TC02verifyLogoutfunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="verifylogoutfunctionality"/>
+        </methods>
+      </class> <!-- com.Saucedemo.TestPack.TC02verifyLogoutfunctionality -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

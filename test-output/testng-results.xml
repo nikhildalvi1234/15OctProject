@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T01:41:37 IST" name="Suite" finished-at="2023-03-08T01:42:07 IST" duration-ms="29986">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T01:41:37 IST" name="Test" finished-at="2023-03-08T01:42:07 IST" duration-ms="29986">
+      <class name="com.Saucedemo.TestPack.TC01VerifyLoginFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Saucedemo.TestPack.TC01VerifyLoginFunctionality@52e6fdee]" started-at="2023-03-08T01:41:59 IST" name="setup" finished-at="2023-03-08T01:42:06 IST" duration-ms="6535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginfunctionality()[pri:0, instance:com.Saucedemo.TestPack.TC01VerifyLoginFunctionality@52e6fdee]" started-at="2023-03-08T01:42:06 IST" name="verifyLoginfunctionality" finished-at="2023-03-08T01:42:06 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Saucedemo.TestPack.TC01VerifyLoginFunctionality@52e6fdee]" started-at="2023-03-08T01:42:06 IST" name="teardown" finished-at="2023-03-08T01:42:07 IST" duration-ms="1479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Saucedemo.TestPack.TC01VerifyLoginFunctionality -->
+      <class name="com.Saucedemo.TestPack.TC03verifyAddToCartfunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Saucedemo.TestPack.TC03verifyAddToCartfunctionality@647e447]" started-at="2023-03-08T01:41:38 IST" name="setup" finished-at="2023-03-08T01:41:47 IST" duration-ms="9726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddtoCartfunctionality()[pri:0, instance:com.Saucedemo.TestPack.TC03verifyAddToCartfunctionality@647e447]" started-at="2023-03-08T01:41:47 IST" name="verifyAddtoCartfunctionality" finished-at="2023-03-08T01:41:49 IST" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddtoCartfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Saucedemo.TestPack.TC03verifyAddToCartfunctionality@647e447]" started-at="2023-03-08T01:41:49 IST" name="teardown" finished-at="2023-03-08T01:41:51 IST" duration-ms="1625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Saucedemo.TestPack.TC03verifyAddToCartfunctionality -->
+      <class name="com.Saucedemo.TestPack.TC02verifyLogoutfunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.Saucedemo.TestPack.TC02verifyLogoutfunctionality@14dd9eb7]" started-at="2023-03-08T01:41:51 IST" name="setup" finished-at="2023-03-08T01:41:57 IST" duration-ms="6787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogoutfunctionality()[pri:0, instance:com.Saucedemo.TestPack.TC02verifyLogoutfunctionality@14dd9eb7]" started-at="2023-03-08T01:41:57 IST" name="verifylogoutfunctionality" finished-at="2023-03-08T01:41:58 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogoutfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Saucedemo.TestPack.TC02verifyLogoutfunctionality@14dd9eb7]" started-at="2023-03-08T01:41:58 IST" name="teardown" finished-at="2023-03-08T01:41:59 IST" duration-ms="1479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Saucedemo.TestPack.TC02verifyLogoutfunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
